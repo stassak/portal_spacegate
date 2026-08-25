@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8d3cee470b41e9f41861d2e5f0193973
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - energyText: {instanceID: 0}
+  - energySlider: {instanceID: 0}
+  - levelCompleteScreen: {fileID: 1794390941870474, guid: 15bc84931c2abbf45a980668f181609a, type: 3}
+  - interruptedProcess: {instanceID: 0}
+  - lowEnergyIcon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
